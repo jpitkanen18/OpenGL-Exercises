@@ -1,0 +1,5 @@
+include/**
+lib/**
+main.dSYM
+main
+*.exe
