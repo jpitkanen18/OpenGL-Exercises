@@ -3,3 +3,4 @@ lib/**
 main.dSYM
 main
 *.exe
+*.jpg
