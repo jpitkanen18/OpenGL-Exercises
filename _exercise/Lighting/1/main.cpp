@@ -229,6 +229,7 @@ int main() {
 		glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
   		glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
 
+
 		lightPos.x = 1.0f + sin(glfwGetTime()) * 2.0f;
         lightPos.y = sin(glfwGetTime() / 2.0f) * 1.0f;
 		// RENDERING
